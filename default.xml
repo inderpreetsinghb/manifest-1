@@ -635,5 +635,8 @@
   <!-- Custom repos -->
   <include name="snippets/remove.xml" />
   <include name="snippets/dot.xml" />
+	 <!-- Gapps -->
+  <include name="snippets/opengapps.xml" />
+
 
 </manifest>
